@@ -1,8 +1,10 @@
-This license is not completed yet.
-#
-Twasi Official Plugin License v0.1-Alpha (TOPL v0.1-Alpha)
 
-1.  Definitions:
+*This license is an alpha version and not completed yet.*
+#
+
+### Twasi Official Plugin License v0.1-Alpha (TOPL v0.1-Alpha)
+
+1.  **Definitions:**
     
 	- By “TwasiBot” we mean the official hosted instance of “Twasi Core” ([https://github.com/Twasi/twasi-core](https://github.com/Twasi/twasi-core)). Self-hosted instances are not meant.
     
@@ -15,7 +17,7 @@ Twasi Official Plugin License v0.1-Alpha (TOPL v0.1-Alpha)
 	- By “official plugin” or “official plugin dependency” we mean plugins provided by us to guarantee various functions  for the TwasiBot or third party APIs provided by us that allow developers to extend the functionality of their plugin as long as this plugin contains the latest version of this license. These plugins and plugin dependencies can be found at the Twasi Development Portal or in our GitHub repositories ([https://github.com/Twasi](https://github.com/Twasi)).
     
 
-2.  Intentions of the license:
+2.  **Intentions of the license:**
     
 
 	- This license is intended to be used in official Twasi-Core plugins, official Twasi-Core plugin dependencies or plugins created using the Twasi Development Portal.
@@ -23,7 +25,7 @@ Twasi Official Plugin License v0.1-Alpha (TOPL v0.1-Alpha)
 	- The license must be included in every plugin you want to run on TwasiBot.
     
 
-3. Permissions:
+3. **Permissions:**
     
 
 	- While Twasi-Core (MIT-License) is allowed to be used in any way this plugin or dependency of Twasi-Core is not. You are not allowed to use this in a productive, self-hosted environment.
@@ -33,7 +35,7 @@ Twasi Official Plugin License v0.1-Alpha (TOPL v0.1-Alpha)
 	- You are allowed to use the official plugin dependencies in your plugin to provide more functionality.
     
 
-4.  Conditions for the inclusion of the plugin in the live operation of the TwasiBot:
+4.  **Conditions for the inclusion of the plugin in the live operation of the TwasiBot:**
     
 
 	-   The plugin must have a public repository on GitHub ([https://github.com](https://github.com)) containing
